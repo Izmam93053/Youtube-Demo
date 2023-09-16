@@ -1,0 +1,47 @@
+.home .card-image {
+  border-radius: 10px;
+}
+.home .channal {
+  margin-top: 10px;
+}
+.home .image-a {
+  border-radius: 50%;
+}
+.home .cor {
+  margin: 0px auto;
+}
+.home .active {
+  font-weight: 500;
+  margin: 2px 0px;
+}
+/* .home .imag {
+  margin-top: 5px;
+  border-radius: 50%;
+} */
+.home .card-nature {
+  border-bottom: 20px;
+}
+.home .item {
+  margin-left: 10px;
+}
+.home .show {
+  margin: 0px 10px;
+  font-size: 15px;
+  /* visibility: hidden; */
+}
+.home .link{
+  text-decoration: none;
+  color: black;
+}
+.home .mx {
+  margin-left: 15px;
+}
+@media (max-width:750px) {
+ 
+ .home .nav-item{
+    /* visibility: hidden; */
+    display: none;
+  }
+}
+
+  

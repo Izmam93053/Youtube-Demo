@@ -1,0 +1,13 @@
+.VideoCard .card-image {
+  border-radius: 10px;
+  width: 100%;
+}
+.VideoCard .channal {
+  margin-top: 10px;
+}
+.VideoCard .image-a {
+  border-radius: 50%;
+}
+.VideoCard .cor {
+  margin: 0px auto;
+}

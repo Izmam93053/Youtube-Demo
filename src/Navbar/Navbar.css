@@ -1,0 +1,35 @@
+.cont{
+    display: flex;
+    margin-left: 15%;
+}
+.bi{
+    margin: 10px 10px;
+}
+.image-3{
+    border-radius: 50%;
+    margin-top: 5px;
+}
+.btn{
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border: 1px solid #ced4da;}
+.butt{
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    box-shadow: 0px 4px 2px #b7b2b2;
+}
+
+.navbar{
+    margin-right: 20px;
+    padding-top: 0.3em;
+}
+.navbar .link{
+    text-decoration: none;
+    color: black;
+}
+@media (min-width:900px){
+   .navbar .cont{
+min-width: 700px;
+    }
+}
+

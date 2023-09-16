@@ -1,0 +1,30 @@
+.canvas .show {
+    font-size: 15px;
+  }
+  .canvas .mx {
+    margin-left: 15px;
+  }
+.canvas .link{
+  text-decoration: none;
+  color: black;
+}
+ .canvas .button{
+    border: 1px solid black !important;
+    background-color: white;
+ }
+  @media (min-width:750px) {
+    .button{
+        /* visibility: hidden; */
+        display: none !important;
+    }
+   
+  }
+  @media (max-width:750px) {
+    .button{
+    display: block;
+    }
+   
+  }
+  
+    
+ 
